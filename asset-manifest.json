@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/platziprueba/static/css/main.b9130380.css",
+    "main.js": "/platziprueba/static/js/main.15565c80.js",
+    "index.html": "/platziprueba/index.html",
+    "static/media/delete.svg": "/platziprueba/static/media/delete.331149da222541bc87c25bf8d775a070.svg",
+    "static/media/check.svg": "/platziprueba/static/media/check.fa4fb594b16385306a04b9c87c0feb55.svg",
+    "main.b9130380.css.map": "/platziprueba/static/css/main.b9130380.css.map",
+    "main.15565c80.js.map": "/platziprueba/static/js/main.15565c80.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b9130380.css",
+    "static/js/main.15565c80.js"
+  ]
+}
